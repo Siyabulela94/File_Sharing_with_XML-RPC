@@ -29,9 +29,9 @@ party) and make it download files. It should be easy to extend and, for that mat
 replace this interface.<p>
   
 # What i learned:
-• xmlrpc.client module
-• xmlrpc.server module
-• threading module,
-• urllib.parse module.
+• xmlrpc.client module<p>
+• xmlrpc.server module<p>
+• threading module,<p>
+• urllib.parse module.<p>
 
 
